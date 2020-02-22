@@ -1,6 +1,6 @@
 ### Updated 02.22.2020
 
-This project was updated to use the `expose_as:` paramater for the JUnit artifacts. Documentation for that project can be found [here](https://docs.gitlab.com/ee/ci/yaml/#artifactsexpose_as).
+This project was updated to use the `expose_as:` paramater for the [JUnit artifacts](https://docs.gitlab.com/ee/ci/junit_test_reports.html#viewing-junit-test-reports-on-gitlab). Documentation for that project can be found [here](https://docs.gitlab.com/ee/ci/yaml/#artifactsexpose_as).
 
 ### Java Spring template project
 

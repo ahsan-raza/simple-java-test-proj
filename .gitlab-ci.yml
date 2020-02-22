@@ -8,8 +8,7 @@ maven-build:
   script: "mvn package"
   artifacts:
     expose_as: 'JUnit Reports'
-    paths:
-      - target/surefire-reports/TEST-*.xml
+    paths: ['target/surefire-reports/']
     reports:
       junit:
         - target/surefire-reports/TEST-*.xml
